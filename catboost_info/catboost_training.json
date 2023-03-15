@@ -1,0 +1,7 @@
+{
+"meta":{"test_sets":[],"test_metrics":[],"learn_metrics":[{"best_value":"Min","name":"MAE"}],"launch_mode":"Train","parameters":"","iteration_count":2,"learn_sets":["learn"],"name":"experiment"},
+"iterations":[
+{"learn":[0.2403412577],"iteration":0,"passed_time":0.0111539258,"remaining_time":0.0111539258},
+{"learn":[0.2402185808],"iteration":1,"passed_time":0.01737385101,"remaining_time":0}
+]}
+]}
