@@ -3,6 +3,8 @@
 
 **Link to competition:** https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting
 
+Score: #174/3507 (top 5%)
+
 ---------------------------
 
 "*A microbusiness is a type of small business that has under 10 employees (according to the SBA), meets specific annual revenue criteria set by state authorities, and has small startup needs.*" Source: https://www.thebalancemoney.com/what-is-a-microbusiness-5210249
