@@ -3,7 +3,7 @@
 
 **Link to competition:** https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting
 
-Score: #174/3507 (top 5%)
+Ranking: #174/3507 (top 5%)
 
 ---------------------------
 
